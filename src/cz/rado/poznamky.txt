@@ -1,0 +1,11 @@
+Pamět   - blok (adresa v paměti) bajtu
+        - alokovat z počtu paměti
+        - po alokacii vrátit adresu alokovaneho místa
+        - pri dalsi alokacii prověřit jestli je misto uz alokovane
+        - zapisovat alokoci bloku
+        - cele a desetinne cislo, pointer (alokuje se na tyto typy) = overovat
+
+   malloc - alokovani podle typu
+   free  - uvolneni podle adresy - jestli-že uvolnujeme nealokovane, vyjimka
+
+   zobrazit stav pameti
